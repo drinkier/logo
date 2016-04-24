@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="212.59842"
+   height="212.59842"
+   id="svg2">
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(22.15625,-409.43284)"
+     id="layer1">
+    <g
+       transform="translate(-13.760139,4.5947265e-6)"
+       id="g3755">
+      <text
+         x="-603.40216"
+         y="111.72118"
+         transform="matrix(0,-0.9937429,1.0062965,0,0,0)"
+         id="text2986"
+         xml:space="preserve"
+         style="font-size:36.59614563px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800020;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+           x="-603.40216"
+           y="111.72118"
+           id="tspan2988"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#800020;fill-opacity:1;font-family:Bangla Sangam MN;-inkscape-font-specification:Bangla Sangam MN">DRINKIER</tspan></text>
+      <path
+         d="m 74.462638,425.48013 0,63.0676 -24.200803,17.94165 0,78.29082 20.97403,21.20376 41.107885,0"
+         id="path2990"
+         style="fill:none;stroke:#800020;stroke-width:3.10389209;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+  </g>
+</svg>
